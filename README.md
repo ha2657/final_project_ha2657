@@ -8,3 +8,5 @@ We chose to run sentiment analysis on the Credit Suisse Bank for the purpose of 
 In conclusion, the sentiment analysis of financial news headlines for Credit Suisse from January 1, 2022, to March 31, 2023, revealed a declining trend in sentiments throughout the three periods under study. The last quater of 2023 demonstrated the most negative sentiment score on the financial news headlines which signaled that market perception regarding Credit Suisse is deteriorating and investors are lossing confidence in the standings of Credit Suisse.
 
 The sentiment analysis technique employed in this report can be applied to other entities within the banking industry, providing valuable insights into industry trends, stakeholders and public perception, and potential opportunities or threats. However, it is important to consider the limitations of sentiment analysis, such as subjectivity, ambiguity, and context, when interpreting the results.
+
+See project notebook [here](https://github.com/ha2657/final_project_ha2657/blob/main/Sentiment%20Analysis%20of%20Credit%20Suisse%20ha2657-2.ipynb)
